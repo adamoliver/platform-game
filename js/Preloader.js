@@ -11,7 +11,7 @@ Platform.Preloader.prototype = {
         this.load.setPreloadSprite(this.preloadBar);
 
         this.load.image('ground', 'assets/platform.png');
-        this.load.image('sky', 'assets/sky.jpg');
+        this.load.image('sky', 'assets/sky.png');
 
         this.load.spritesheet('dude', 'assets/dude.png', 30, 28);
         this.load.spritesheet('baddie', 'assets/baddie.png', 30, 28);
