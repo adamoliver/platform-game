@@ -5,3 +5,5 @@
 * Survive as long as you can
 
 [Play game](http://adamoliver.github.io/platform-game)
+
+![Screenshot](http://adamoliver.github.io/platform-game/screenshot.jpg)
